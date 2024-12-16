@@ -1,6 +1,4 @@
-Here's a sample description for your GitHub repository that hosts your resume website:
 
----
 
 # Personal Resume Website 🌐
 
